@@ -8,7 +8,7 @@ Computer with MATLAB software
 <img width="554" height="1280" alt="image" src="https://github.com/user-attachments/assets/070dd1ee-b9b5-46cf-bea1-aed33bf000f4" />
 <img width="695" height="1280" alt="image" src="https://github.com/user-attachments/assets/3190bd96-7478-4809-9459-553b29874ae9" />
 
-![WhatsApp Image 2025-11-27 at 20 51 41_03d78e12](https://github.com/user-attachments/assets/5a142bb0-e7e4-4148-b69a-5399056daac0)
+<img width="676" height="889" alt="image" src="https://github.com/user-attachments/assets/f3beca5f-cf51-42dc-b726-14d3042d45e5" />
 
 
 
